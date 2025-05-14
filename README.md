@@ -22,7 +22,7 @@ Make sure the following are installed:
 ### 1. Clone the Project
 
 ```
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/Abdul-Rahman21/livewire-2.git
 cd your-project
 ```
 
